@@ -1,0 +1,161 @@
+@media only screen and (max-width:1187px){
+    h2{
+        font-size: 340%;
+    }
+    h1{
+        font-size: 540%;
+        
+    }
+}
+
+@media only screen and (max-width:1068px){
+    html,
+    body{
+    
+    font-size: 14px;
+}
+}
+
+@media only screen and (max-width:934px){
+    h2{
+        font-size: 250%;
+    }
+    h1{
+        font-size: 450%;
+        
+    }
+
+    .structure-box{
+        background-color:#f4f4f4 ;
+        height: 270px; 
+    }
+    
+}
+@media only screen and (max-width:778px){
+    html,
+    body{
+    font-size: 11px;
+    }
+
+    h2{
+        font-size: 400%;
+    }
+    h1{
+        font-size: 500%;
+        
+    }
+
+    .structure-box{
+        background-color:#f4f4f4 ;
+        height: 240px; 
+    }
+
+    .rules-heading{
+        margin-top:30px;
+    }
+
+    .obj-heading:after{
+        margin:30px auto 0 50px;
+    }
+}
+
+@media only screen and (max-width:546px){
+    html,
+    body{
+    font-size: 9px;
+    }
+
+    .structure-box{
+        background-color:#f4f4f4 ;
+        height: 200px; 
+    }
+}
+@media only screen and (max-width:480px){
+    .structure-box{
+        background-color:#f4f4f4 ;
+        height: 170px; 
+    }
+
+    .img1{
+        width:50%;
+        height: 50%;
+        text-align: center;
+        
+    }
+
+    .faq-question{
+        font-size: 130%;
+        margin-left:30px;
+        margin-right:30px;
+    }
+    
+    .faq-text{
+        font-size: 130%;
+        color: #4169E1;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        margin-right:30px
+    }
+    .Faq-heading{
+        font-size: 300%;
+        color:black; 
+        margin-top:40px;
+        text-align: center;
+    }
+
+    .img4{
+        margin-top: 30px;
+        width:100%;
+        margin-bottom: 30px;
+    }
+    
+    .img5{
+        margin-top: 30px;
+        width:100%;
+        margin-bottom: 30px;
+    }
+
+    .structure-box2{
+        margin-top:1%;
+        background-color:#f4f4f4;
+        margin-left:1%;
+        margin-right:1%;
+        height:160px
+    }
+
+    .structure-box{
+        background-color:#f4f4f4 ; 
+        margin-left:1%;
+        margin-right:1%;
+    }
+
+}
+
+
+@media only screen and (max-width:444px){
+    h2{
+        font-size: 400%;
+        color: #fff;
+        font-weight: 200;
+        margin-bottom: 20px;
+    }
+    h1{
+        font-size: 600%;
+        color: #fff;
+    }
+}
+
+@media only screen and (max-width:284px){
+    .structure-box{
+        background-color:#f4f4f4 ;
+        height: 200px; 
+    }
+}
+
+
+
+
+
+
+
+
